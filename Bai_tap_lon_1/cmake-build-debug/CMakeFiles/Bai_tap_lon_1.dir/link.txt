@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bai_tap_lon_1.dir/main.cpp.o  -o Bai_tap_lon_1 

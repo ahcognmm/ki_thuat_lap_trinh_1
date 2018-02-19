@@ -1,0 +1,3 @@
+/home/ahcogn/Documents/Bai_tap_lon_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ahcogn/Documents/Bai_tap_lon_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ahcogn/Documents/Bai_tap_lon_1/cmake-build-debug/CMakeFiles/Bai_tap_lon_1.dir
